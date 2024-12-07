@@ -4,7 +4,7 @@ public class AccessModifier {
 
 	public String name = "Raton"; // public - any class can access
 
-	private int age = 30; // private -only same class can access
+	private int age = 29; // private -only same class can access
 
 	protected int ssn = 1234567789; // protected - class in the same package and subclass
 
